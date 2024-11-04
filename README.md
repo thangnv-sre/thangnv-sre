@@ -16,12 +16,12 @@ I'm a dedicated DevOps engineer with a passion for building and optimizing cloud
 - **MLOps**: Working on projects leveraging ClearML, focusing on auto-reviewing media content, deployed on EKS.
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, Bash, YAML, Go
-- **Cloud Platforms**: AWS, Azure, GCP
-- **Automation Tools**: Terraform, Ansible, Jenkins
+- **Languages**: Python, Bash, YAML
+- **Cloud Platforms**: AWS, GCP
+- **Automation Tools**: Terraform, Ansible, Jenkins, Github-actions
 - **Containers**: Docker, Kubernetes (K8s)
 - **Version Control**: Git, GitHub, Bitbucket
-- **MLOps Tools**: ClearML, MLflow
+- **MLOps Tools**: ClearML
 
 ## 🌱 Currently Working On
 - MLOps project using ClearML and EKS to automate photo and video content review.
